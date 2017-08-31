@@ -8,4 +8,7 @@ Once you unlock the course from your computer, you’ll be set up to:
 * get real-time support from our education team
 * start using real software engineering tools so you can learn to code by _really coding_
 
-![alt text](https://s3-us-west-2.amazonaws.com/curriculum-content/mobile-orientation/ide.mp4)
+![Learn IDE](https://s3-us-west-2.amazonaws.com/curriculum-content/mobile-orientation/ide.mp4)
+_A peek at Flatiron School’s coding platform, the Learn IDE_
+
+In the next two lessons, you’ll get a closer look at the upcoming curriculum and then set your custom learning plan to make the most of this course.
