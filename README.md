@@ -1,4 +1,4 @@
-# getting-started-with-bootcamp-prep
+# Getting Started with Bootcamp Prep
 
 Congratulations on getting started with Flatiron School’s online coding bootcamp prep course. After this quick three-lesson mobile orientation, you’ll get an email from Flatiron School with **your free access link to the full course** – accessible only from your computer.
 
